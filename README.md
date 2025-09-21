@@ -1,36 +1,69 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-# Date:
-# Register no.
-# Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
+# Register no: 212222050017
+# Aim: 
+To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
-#AI Tools Required: 
-
-
+# AI Tools Required: 
+Claude
 # Explanation: 
-Prompt:
-"Design a personal productivity assistant that can help manage daily tasks, schedule reminders, suggest wellness tips, and answer general queries. The assistant should interact using natural language and be adaptable to the user’s changing preferences over time."
-Procedure:
-1. Define the core requirements of a personal productivity assistant.
-2. Identify and construct appropriate prompts for each task using an LLM (e.g., ChatGPT).
-3. Simulate natural user interaction through a simple interface or command-line system.
-4. Collect feedback or inputs from users and adapt responses accordingly.
-5. (Optional) Integrate basic memory to simulate preference adaptation.
-EXPECTED OUTPUT: - (attached the drive link)
-Output (Example Response by LLM):
-Personal Productivity Assistant Features:
-1. Daily Task Manager:
-o Accept tasks via natural language (e.g., "Remind me to call mom at 6 PM").
-o Organize tasks by priority and deadline.
-o Provide daily summaries and pending items.
-2. Smart Scheduler:
-o Schedule events and set reminders using contextual understanding.
-o Notify user of overlapping appointments or free time slots.
-3. Wellness Tips Generator:
-o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
-o Adapt suggestions based on past user preferences and responses.
+## Prompt 
+Some tasks got canceled—reorganize my remaining schedule to maximize productivity and rest, and suggest new priorities if possible. Here’s my agenda:
+- 8:00 AM – Team stand-up meeting
+- 9:00 AM – Deep work: finish project report
+- 11:00 AM – Client call (canceled)
+- 12:30 PM – Lunch break
+- 1:30 PM – Review emails & respond to pending messages
+- 2:30 PM – Doctor’s appointment (canceled)
+- 4:00 PM – Work on presentation slides
+- 6:00 PM – Gym session
+- 8:00 PM – Family dinner
+- 9:30 PM – Personal reading or skill learning
 
+## Claude's response
 
+### Morning Block (Enhanced Focus Time)
+
+8:00 AM – Team stand-up meeting
+
+9:00 AM – Deep work: finish project report (extended time available)
+
+11:00 AM – Buffer time for report completion or early lunch prep
+
+12:30 PM – Lunch break
+
+### Afternoon Block (Productive Flow)
+
+1:30 PM – Review emails & respond to pending messages
+
+2:30 PM – Power hour: Work on presentation slides (moved earlier for better energy)
+
+3:30 PM – Strategic break/walk (mental reset)
+
+4:00 PM – Presentation refinement or catch-up tasks
+
+5:00 PM – End work early (mental transition time)
+
+### Evening Block (Personal Time)
+
+6:00 PM – Gym session
+
+8:00 PM – Family dinner
+
+9:30 PM – Personal reading or skill learning
+
+### Key Improvements:
+
+* Extended deep work window - You now have uninterrupted focus time from 9-11 AM
+* Earlier presentation work - Moved to 2:30 PM when your energy is still high
+* Built-in buffer time - Flexibility for tasks that run over
+* Earlier work cutoff - Ends by 5 PM, giving you transition time before gym
+
+### New Priority Suggestions:
+
+* Use the 3:30-4:00 PM break for a brief walk or mindfulness practice
+* Consider batch-processing emails instead of spreading throughout day
+* The 11:00 AM slot could become a weekly planning/reflection time
 
 # Result: 
 The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
